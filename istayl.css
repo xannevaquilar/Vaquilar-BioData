@@ -1,0 +1,38 @@
+body {
+	background-color: #ebe4ff;
+}
+
+table {
+	width: 60%;
+	background-color: #f8f8ff;
+	padding: 10px;
+}
+
+.header {
+	text-align: center;
+	font-weight: bold;
+	font-family: Helvetica;
+}
+
+.header2 {
+	font-weight: bold;
+	text-align: left;
+	font-family: Helvetica;
+}
+
+input[type=text] {
+	border-bottom: 1px solid #000;
+}
+
+.button {
+	background-color: #ebe4ff;
+	color: #ffffff;
+	padding: 10px;
+	border: none;
+	width: 100px;
+}
+
+.button:hover {
+	background-color: #000;
+	cursor: pointer;
+}
